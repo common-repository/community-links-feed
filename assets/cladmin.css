@@ -1,0 +1,37 @@
+.cfield{
+	width:250px;
+	display:block;
+	float:left;
+	font-size:11px;
+	font-weight:bold;
+	padding:2px 0 0 0;
+}
+.cdesc{
+	display:block;
+	margin:0 0 0 253px;
+}
+.cjlogo{
+	position:absolute;
+	bottom:73px;
+	right:0px;
+}
+.cjadminhead, #approvedlinks{
+	cursor:pointer;
+}
+
+.cjselect{
+	width:240px;
+}
+.useraction{
+	display:none;
+}
+#removedall{
+	margin:10px 0 0 5px;
+}
+.cldonate{
+	padding:20px 0 0 0;
+}
+.clborder{
+	padding:10px 0 0 0;
+	border-bottom:1px solid #cccccc;
+}
